@@ -6,3 +6,5 @@
 
 ===jo class map hota hai vh hota hai OBJECT k alternative
 ===Map basically advance eature of a object 
+
+// OOPs conscept 
